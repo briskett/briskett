@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briskett
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning im not sure, i'm actually really lost on what we are doing in class.
+- 🌱 I’m currently trying to figure out what I want to become as a programmer.
 - 📫 How to reach me : wkg2rs@gmail.com
 
 <!---
