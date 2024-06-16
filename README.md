@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @briskett
-- 👀 I'm a third year student at SF State University studying computer science
+- 👀 I'm a student at SF State University studying computer science
 - 🌱 I’m currently working on a video game bot coded in python.
 - 📫 How to reach me : wkg2rs@gmail.com
 
