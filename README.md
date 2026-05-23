@@ -1,5 +1,16 @@
-- Hi, I’m @briskett
-- I'm a student at SF State University studying computer science
-- I’m currently working on a RuneScape bot coded in python JUST FOR FUN.
-- How to reach me : wkg2rs@gmail.com
+# Hey, I'm William (@briskett)
 
+Computer Science graduate from San Francisco State University interested in:
+- SaaS & automation
+- AI-powered applications
+- Full-stack development
+- Workflow optimization
+
+Currently building:
+- ClipForge — AI short-form content automation platform
+
+Tech:
+Python • JavaScript • React • Node.js • SQL
+
+Contact:
+wkg2rs@gmail.com
